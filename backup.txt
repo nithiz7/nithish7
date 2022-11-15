@@ -1,0 +1,25 @@
+<!htmldoc html>
+<html>
+	<head>
+		<title>
+			hii  my name is nithish
+		</title>
+            hello
+		<h1 style="font-size:100;"> i am nithish </hl>
+		<h2> i am from cbe </h2>
+		<h3> i studied at prsnms school </h3>
+		<h4> kishovarma </h4>
+		<h5> gowtham </h5>
+		<h6> mithiles </h6>
+<a href="www.anniyan.in"> anniyan </a>
+	</head>
+	<body>
+		<p>abcdefghijklmnopqrstuvwxyz</p><br>
+		france<hr>
+		<img src="france.jpg" height=400 width=800>
+            <br>skyscrapers<hr>lights
+		<img src="fran.jpg" alt="image not found">
+		<p style="color:pink;">my name is nithish </p>
+		<pre> n        i          t         h       i </pre>     
+	</body>
+</html>
